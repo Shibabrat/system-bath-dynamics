@@ -1,0 +1,5 @@
+/src/*.txt
+src/.ipynb_checkpoints/*
+src/__pycache__/*
+src/tube-manifolds-2dof/.ipynb_checkpoints/*
+
